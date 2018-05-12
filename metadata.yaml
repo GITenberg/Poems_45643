@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43394
     wikipedia: https://en.wikipedia.org/wiki/Iris_Tree
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45643#Poems
 gutenberg_issued: '2014-05-14'
 gutenberg_type: Text
 identifiers:
